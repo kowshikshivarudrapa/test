@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: kurento-hello-world
-        image: nordri/kurento-hello-world:no-ssl
+        image: nordri/kurento-hello-world:no-ssldcnljfnvlkvf
         env:
         - name: "KMS_URL"
           value: "kms-service"
